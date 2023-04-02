@@ -4,7 +4,41 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color: #53bc9d;
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+    color: #53bc9d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
+
+
+h2,h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
 .top-container{
+    background-color: #e0ebe8;
+    padding-top: 100px;
     margin: 0 auto;
     text-align: center;
+    position: relative;
+}
+
+#cloud-top{
+    position: absolute;
+    right: 800px;
+    top:10px;
+}
+
+#cloud-down{
+    position: absolute;
 }
