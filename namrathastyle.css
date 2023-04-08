@@ -1,0 +1,146 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imgpos{
+margin-left:13em;
+height:6em;
+width:6em;
+margin-top: 3em;
+}
+
+a{
+    position :relative;
+    left:37em;
+    bottom:0em;
+    top:-2.3em;
+    font-size: 1.8em;
+    padding:0.8em;
+}
+#name{
+    text-align: center;
+    color: #53bc9d;
+    font-size: 120px;
+    font-family: 'Sacramento', cursive;
+}
+#cloudtop{
+    position:relative;
+    left:74em;
+    top:4em;
+    height:4em;
+}
+#cloudbottom{
+    position:relative;
+    left:7.5em;
+    bottom:0.9em;
+    height:2em;
+}
+#tag{
+    text-align:center;
+    position:relative;
+    top:1em;
+    color: #53bc9d;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font: weight 2px;
+}
+#land{
+    position:relative;
+    left:19em;
+    top:3em;
+    height:23em;
+}
+
+#imgcen{
+    position: relative;
+    margin-left:44%;
+  
+    height:12em;
+    width:12em;
+    /* margin-top: 3.5em;       */
+}
+#hi{
+    color: #53bc9d;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#desc{
+    text-align: center;
+    font-size: 30px;
+}
+#divcen{
+    text-align: center;
+    margin-left:30%;
+    margin-right:30% ;
+}
+#what{
+    color:hsl(162, 44%, 40%);
+    text-align: center;
+    font-size: 50px;
+}
+#img{
+    
+    position:relative;
+    left:2em;
+    width:12em;
+    height:12em;
+}
+#design{
+    text-align:left;
+    padding-bottom:1.5em;
+    color:#53bc9d 
+}
+#p{
+    text-align:left;
+    width:90%;
+    font-size:25px;
+}
+.imga{
+    width:12em;
+    height:12em;
+    position:relative;
+    left:59em;
+    bottom:9em;
+}
+#msg{
+    font-size: 15px;
+    position:absolute;
+    right:107em;
+    width:20%;
+    border-radius: 10px;
+    background: #45b29a;  
+    
+}
+#env{
+    height: 0.79em;
+    margin-right:15px;
+    position:relative;
+    top:2.5px;
+    
+}
+#anch{
+    background-color: #53bc9d;
+    display:inline-block;
+    border-radius: 6px;
+    text-decoration:none;
+}
+#foot{
+    background-color:#bfded7;
+    height: 30vh;
+}
+td{
+    padding-left: 54px;
+    padding-right: 54px;
+    font-size: 25px;
+    color: #53bc9d;
+}
+#fottag{
+    text-decoration: dashed;
+    font-size: 15px;
+    position:relative;
+    top:0.7px;
+    left:-0.001px;
+    
+}
